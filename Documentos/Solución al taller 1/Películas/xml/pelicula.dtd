@@ -1,0 +1,6 @@
+<!ELEMENT pelicula (titulo, cartel, url, genero, tema)*>
+<!ELEMENT titulo   (#PCDATA)>
+<!ELEMENT cartel   (#PCDATA)>
+<!ELEMENT url      (#PCDATA)>
+<!ELEMENT genero   ("Acción", "Ciencia ficción", "Comedia", "Drama", "Fantasía", "Melodrama", "Musical", "Romance", "Suspense", "Terror", "Documental")>
+<!ELEMENT tema     (#PCDATA)>

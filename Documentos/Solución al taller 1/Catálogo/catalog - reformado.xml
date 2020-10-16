@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CATALOGO>
+  <CD>
+    <TITULO>You all my mind</TITULO>
+    <ARTISTAA>Bob Dylan</ARTISTA>
+    <COUNTRY>USA</COUNTRY>
+    <DISQUERA>Columbia</DISQUERA>
+    <PRECIO>10.90</PRECIO>
+    <EPOCA>1985</EPOCA>
+  </CD>
+
+  <CD>
+    <TITULO>Hide your heart</TITULO>
+    <ARTISTA>Bonnie Tyler</ARTISTA>
+    <COUNTRY>UK</COUNTRY>
+    <DISQUERA>CBS Records</DISQUERA>
+    <PRECIO>9.90</PRECIO>
+    <EPOCA>1988</EPOCA>
+  </CD1>
+
+  <CD>
+    <TITULO>Greastest Hits</TITULO>
+    <ARTISTA>Dolly Parton</ARTISTA>
+    <COUNTRY>USA</COUNTRY>
+    <DISQUERA>RCA</DISQUERA>
+    <PRECIO>9.90</PRECIO>
+    <EPOCA>1982</EPOCA>
+  </CD>
+
+  <CD>
+    <TITULO>Still got the blues</TITULO>
+    <ARTISTA>Gary Moore</ARTISTA>
+    <COUNTRY>UK</COUNTRY>
+    <DISQUERA>Virgin Records</DISQUERA>
+    <PRECIO>10.20</PRECIO>
+    <EPOCA>1990</EPOCA>
+  </CD>
+</CATALOG>

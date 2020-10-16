@@ -1,0 +1,23 @@
+Jueves 15 de octubre de 2020, 13:41
+
+Para que los navegadores me cargaran la página de extensión ".xml" hube de emplear el protocolo HTTP, pues ni FireFox ni Chromium me permitieron cargar, desde el archivo "xml", un archivo "xsl" mediante el protocolo FILE. Para emplear el protocolo HTTP instalé (realmente ya estaba instalado y en funcionamiento) un servidor Apache, el cual define un sitio por omisión, accedible medianta la URL 127.0.0.1, y el cual presenta una página en la cual informa que ella está alojada en "/var/www/html", así que creé creé un enlace blando en ese directorio hacia este en el cual están estos archivos:
+
+cd /var/www/html
+sudo ln -s '/home/od/Documentos/Universidad/U. de A./Ingeniería de Sistemas a Distancia (506)/15 - Décimo quinto semestre/Cursos tomados/25-54633 - Fundamentos de Sistemas de Información/25-54633---Fundamentos-de-Sistemas-de-Informaci-n/Documentos/Solución al taller 1' sitio_1
+
+Y desde el navegador accedí mediante la siguiente URL a las páginas:
+http://127.0.0.1/sitio_1/
+
+--------------------------------------------------------------------------------
+Viernes 16 de octubre de 2020, 14:21
+
+Según mis pruebas: las cadenas "xPath" usadas en el archivo XML deben de respetar la forma como aparecen las letras de los nombre de los elementos definidos en el archivo "DTD". O sea:
+  - si en el archivo "DTD" el nombre de un elemento aparece en mayúsculas, entonces en la cadena "xPath" usada en el arhivo "XML" ese nombre debe de aparecer en mayúsculas.
+
+  - si en el archivo "DTD" el nombre de un elemento aparece en minúsculas, entonces en la cadena "xPath" usada en el arhivo "XML" ese nombre debe de aparecer en minúsculas.
+
+  - si en el archivo "DTD" el nombre de un elemento aparece escrito como una combinación de mayúsculas y minúsculas, entonces en la cadena "xPath" usada en el arhivo "XML" ese nombre debe de aparecer tal cual aparece escrito en el archivo "DTD".
+
+Siglas:
+  "DTD" es la abreviación de "Document Type Definition".
+  "UTF": Unicode (or Universal Coded Character Set) Transformation Format

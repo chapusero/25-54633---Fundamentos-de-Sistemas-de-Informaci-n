@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="actores.xsl" ?>
+<!DOCTYPE actor SYSTEM "actor.dtd">
+<actores>
+  <actor>
+    <pelicula>BenHur</pelicula>
+    <nombre>John Joseph</nombre>
+    <pais>USA</pais>
+    <empresa>Columbia</empresa>
+    <calificacion>3</calificacion>
+    <nacimiento>1985</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>Hide your heart</pelicula>
+    <nombre>Bonnie Tyler</nombre>
+    <pais>UK</pais>
+    <empresa>CBS Records</empresa>
+    <calificacion>4.5</calificacion>
+    <nacimiento>1988</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>Greatest Hits of the Roma</pelicula>
+    <nombre>Dolly Perez</nombre>
+    <pais>USA</pais>
+    <empresa>RCA</empresa>
+    <calificacion>5</calificacion>
+    <nacimiento>1982</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>Still got the blues</pelicula>
+    <nombre>Gary Moralez</nombre>
+    <pais>UK</pais>
+    <empresa>Virgin records</empresa>
+    <calificacion>20</calificacion>
+    <nacimiento>1990</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>Atenea</pelicula>
+    <nombre>Robin Mcmaraman</nombre>
+    <pais>EU</pais>
+    <empresa>BMG</empresa>
+    <calificacion>4</calificacion>
+    <nacimiento>1997</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>One night with Yo</pelicula>
+    <nombre>Bee Gees</nombre>
+    <pais>UK</pais>
+    <empresa>Polydor</empresa>
+    <calificacion>1</calificacion>
+    <nacimiento>1998</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>Sylvias Mother</pelicula>
+    <nombre>Dr.Hook</nombre>
+    <pais>UK</pais>
+    <empresa>CBS</empresa>
+    <calificacion>1</calificacion>
+    <nacimiento>1973</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>Maggie May</pelicula>
+    <nombre>Rod Stewart</nombre>
+    <pais>UK</pais>
+    <empresa>Pickwick</empresa>
+    <calificacion>2.5</calificacion>
+    <nacimiento>1990</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>Romanza</pelicula>
+    <nombre>Andrea Bocelli</nombre>
+    <pais>EU</pais>
+    <empresa>Polydor</empresa>
+    <calificacion>4.2</calificacion>
+    <nacimiento>1996</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>When a man loves a woman</pelicula>
+    <nombre>Percy Van Robin</nombre>
+    <pais>USA</pais>
+    <empresa>Atlantic</empresa>
+    <calificacion>3</calificacion>
+    <nacimiento>1987</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>Black angel</pelicula>
+    <nombre>Savage Rose</nombre>
+    <pais>EU</pais>
+    <empresa>Mega</empresa>
+    <calificacion>2</calificacion>
+    <nacimiento>1995</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>1999 Grammy Nominees</pelicula>
+    <nombre>Juan C </nombre>
+    <pais>USA</pais>
+    <empresa>Grammy</empresa>
+    <calificacion>2</calificacion>
+    <nacimiento>1999</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>For the good times</pelicula>
+    <nombre>Kenny Rogers</nombre>
+    <pais>UK</pais>
+    <empresa>Mucik Master</empresa>
+    <calificacion>5</calificacion>
+    <nacimiento>1995</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>Big Willie style</pelicula>
+    <nombre>Will Samper</nombre>
+    <pais>USA</pais>
+    <empresa>Columbia</empresa>
+    <calificacion>3.4</calificacion>
+    <nacimiento>1997</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>Tupelo Honey</pelicula>
+    <nombre>Van Morrison</nombre>
+    <pais>UK</pais>
+    <empresa>Polydor</empresa>
+    <calificacion>8.20</calificacion>
+    <nacimiento>1971</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>Soulsville</pelicula>
+    <nombre>Jorn Hoel</nombre>
+    <pais>Norway</pais>
+    <empresa>WEA</empresa>
+    <calificacion>2</calificacion>
+    <nacimiento>1996</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>The very best of</pelicula>
+    <nombre>Jerry Stevens</nombre>
+    <pais>UK</pais>
+    <empresa>Island</empresa>
+    <calificacion>8.90</calificacion>
+    <nacimiento>1990</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>Stop</pelicula>
+    <nombre>Sam Brown</nombre>
+    <pais>UK</pais>
+    <empresa>A and M</empresa>
+    <calificacion>8.90</calificacion>
+    <nacimiento>1988</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>Bridge of Spies</pelicula>
+    <nombre>Tom Bermund</nombre>
+    <pais>UK</pais>
+    <empresa>Siren</empresa>
+    <calificacion>7.90</calificacion>
+    <nacimiento>1987</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>Private Dancer</pelicula>
+    <nombre>Tina Medina</nombre>
+    <pais>UK</pais>
+    <empresa>Capitol</empresa>
+    <calificacion>4</calificacion>
+    <nacimiento>1983</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>Midt om natten</pelicula>
+    <nombre>Kim Lopez</nombre>
+    <pais>EU</pais>
+    <empresa>Medley</empresa>
+    <calificacion>7.80</calificacion>
+    <nacimiento>1983</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>Pavarotti Gala Concert</pelicula>
+    <nombre>Luciano G. Marquez</nombre>
+    <pais>UK</pais>
+    <empresa>DECCA</empresa>
+    <calificacion>4.5</calificacion>
+    <nacimiento>1991</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>The dock of the bay</pelicula>
+    <nombre>Otto Bula</nombre>
+    <pais>USA</pais>
+    <empresa>Stax Records</empresa>
+    <calificacion>3</calificacion>
+    <nacimiento>1968</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>Picture book</pelicula>
+    <nombre>Estani O.J simpson</nombre>
+    <pais>EU</pais>
+    <empresa>Elektra</empresa>
+    <calificacion>3.2</calificacion>
+    <nacimiento>1985</nacimiento>
+  </actor>
+  <actor>
+    <pelicula>Red</pelicula>
+    <nombre>Gabriel Reynols</nombre>
+    <pais>UK</pais>
+    <empresa>London</empresa>
+    <calificacion>3.5</calificacion>
+    <nacimiento>1987</nacimiento>
+  </actor>
+</actores>

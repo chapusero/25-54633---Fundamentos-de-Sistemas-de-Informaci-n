@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CATALOG>
+  <CD>
+    <TITULO>You all my mind</TITULO>
+    <ARTISTA>Bob Dylan</ARTISTA>
+    <COUNTRY>USA</COUNTRY>
+    <DISQUERA>Columbia</DISQUERA>
+    <PRECIO>10.90</PRECIO>
+    <EPOCA>1985</EPOCA>
+  </CD>
+
+  <CD>
+    <TITULO>Hide your heart</TITULO>
+    <ARTISTA>Bonnie Tyler</ARTISTA>
+    <COUNTRY>UK</COUNTRY>
+    <DISQUERA>CBS Records</DISQUERA>
+    <PRECIO>9.90</PRECIO>
+    <EPOCA>1988</EPOCA>
+  </CD>
+
+  <CD>
+    <TITULO>Greastest Hits</TITULO>
+    <ARTISTA>Dolly Parton</ARTISTA>
+    <COUNTRY>USA</COUNTRY>
+    <DISQUERA>RCA</DISQUERA>
+    <PRECIO>9.90</PRECIO>
+    <EPOCA>1982</EPOCA>
+  </CD>
+
+  <CD>
+    <TITULO>Still got the blues</TITULO>
+    <ARTISTA>Gary Moore</ARTISTA>
+    <COUNTRY>UK</COUNTRY>
+    <DISQUERA>Virgin Records</DISQUERA>
+    <PRECIO>10.20</PRECIO>
+    <EPOCA>1990</EPOCA>
+  </CD>
+
+  <CD>
+    <TITULO>A Tu Medida</TITULO>
+    <ARTISTA>Karolina</ARTISTA>
+    <COUNTRY>Venezuela</COUNTRY>
+    <DISQUERA>Polygram</DISQUERA>
+    <PRECIO></PRECIO>
+    <EPOCA>1995</EPOCA>
+    <TIEMPO>4:08</TIEMPO>
+  </CD>
+
+  <CD>
+    <TITULO>Dos gardenias</TITULO>
+    <ARTISTA>Isolina Carrillo</ARTISTA>
+    <COUNTRY>Cuba</COUNTRY>
+    <DISQUERA>Polygram</DISQUERA>
+    <PRECIO></PRECIO>
+    <EPOCA>1947</EPOCA>
+  </CD>
+
+  <CD>
+    <TITULO>El canoero</TITULO>
+    <ARTISTA>Los Warahuaco</ARTISTA>
+    <COUNTRY>Colombia</COUNTRY>
+    <DISQUERA>Discos Fuentes</DISQUERA>
+    <PRECIO></PRECIO>
+    <EPOCA>1983</EPOCA>
+  </CD>
+</CATALOG>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE note SYSTEM "parts.dtd">
+<PARTS>
+  <TITLE>Este título es opcional. Supongo que puedo poner una descripción de lo que el listado de partes forma.</TITLE>
+
+  <PART>
+    <ITEM>Ítem 1</ITEM>
+    <MANUFACTURER>Fabricante</MANUFACTURER>
+    <MODEL>Modelo</MODEL>
+    <COST>Precio</COST>
+  </PART>
+
+  <PART>
+    <ITEM>Ítem 2</ITEM>
+    <MANUFACTURER>Fabricante</MANUFACTURER>
+    <MODEL>Modelo</MODEL>
+    <COST>Precio</COST>
+  </PART>
+</PARTS>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="película.xsl" ?>
+<!DOCTYPE pelicula SYSTEM "pelicula.dtd">
+<trailers>
+  <película>
+    <titulo>Cadena perpetua</titulo>
+    <cartel>../imagen/Cartel de Cadena perpetua.jpg</cartel>
+    <url>https://ok.ru/video/232515766915</url>
+    <género>Drama</género>
+    <tema>
+      <![CDATA[
+        Dos hombres encarcelados se unen durante varios años, encontrando consuelo y eventual redención a través de actos de decencia común.
+      ]]>
+      </tema>
+  </película>
+
+  <película>
+    <titulo>La vida es bella</titulo>
+    <cartel>../imagen/Cartén de La vida es bella.jpg</cartel>
+    <url>http://www.sensacine.com/peliculas/pelicula-64439/trailer-19426849/</url>
+    <género>Drama, Comedia</género>
+    <tema>
+        La Segunda Guerra Mundial está a punto de estallar en Europa. Mientras tanto, Guido llega a un pueblo italiano con la intención de abrir una librería. Allí se enamora de la novia de un fascista italiano, Dora. Ésta sucumbirá a sus encantos y Guido consigue que se case con él.<br />
+
+        De la bonita unión nace un pequeño que tendrá que vivir en primera persona los horrores de la guerra. La familia será recluida en un campo de concentración. Guido hará todo lo que esté en sus manos para hacer creer a su hijo que la vida es bella y que todo lo que están viviendo no es más que un juego…
+      </tema>
+  </película>
+
+  <película>
+    <titulo>El padrino</titulo>
+    <cartel>../imagen/Cartén del El padrino.jpg</cartel>
+    <url>http://www.sensacine.com/peliculas/pelicula-1628/trailer-19558886/</url>
+    <género>Crimen, Drama</género>
+    <tema>
+      <![CDATA[
+        En el verano de 1945, se celebra la boda de Connie (Talia Shire) y Carlo Rizzi (Gianni Russo). Connie es la única hija de Don Vito Corleone (Marlon Brando), jefe de una de las familias que ejercen el mando de la Cosa Nostra en la ciudad de Nueva York. Don Vito además tiene otros tres hijos: su primogénito Sonny (James Caan), el endeble Fredo (John Cazale) y el más joven se todos, Michael (Al Pacino), un marine condecorado por su lucha en la Segunda Guerra Mundial que acaba de regresar a su hogar en Nueva York. Por designios de la fortuna, Michael terminará llevando la vida que no deseaba, tomando las riendas del negocio familiar, cambiando su moral y sus valores, para defender a toda costa a su familia.
+      ]]>
+      </tema>
+  </película>
+</trailers>

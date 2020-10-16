@@ -1,0 +1,7 @@
+<!ELEMENT actor (pelicula, nombre, pais, empresa, calificacion, nacimiento)>
+<!ELEMENT pelicula     (#PCDATA)>
+<!ELEMENT nombre       (#PCDATA)>
+<!ELEMENT pais         (#PCDATA)>
+<!ELEMENT empresa      (#PCDATA)>
+<!ELEMENT calificacion (#PCDATA)>
+<!ELEMENT nacimiento   (#PCDATA)>
